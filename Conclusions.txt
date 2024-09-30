@@ -1,0 +1,2 @@
+In the first task, we used int elements to arrange the numbers in the correct order.
+In the second task, we were able to count using the string command the elements that are written in the condition.
